@@ -1,0 +1,8 @@
+run_erl [11964] Mon Apr  9 23:56:24 2018
+Args before exec of shell:
+run_erl [11964] Mon Apr  9 23:56:24 2018
+argv[0] = sh
+run_erl [11964] Mon Apr  9 23:56:24 2018
+argv[1] = -c
+run_erl [11964] Mon Apr  9 23:56:24 2018
+argv[2] = exec "/home/ira/HW_6/cache_server/_rel/cache_server_release/bin/cache_server_release" "console"

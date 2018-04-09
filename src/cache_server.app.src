@@ -1,0 +1,17 @@
+{application, cache_server,
+ [
+  {description, "Home Task 6"},
+  {vsn, "0.1.0"},
+  {id,"git"},
+  {registered, []},
+  {modules,[]},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  sasl, 
+                  cowboy,
+                  jsx
+                 ]},
+  {mod, { cache_server_app, []}},
+  {env, []}
+ ]}.
